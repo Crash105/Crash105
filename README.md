@@ -2,11 +2,8 @@
 # Hi, Im Brian!
 Software Enginner with a passion for Java and Next.js
 
-Currently developing Python-based patient-doctor connection system for oral mucositis treatment company
+Im looking to improve upon my Python and Java Skills
 
-Im looking to collaborate on spring boot Java projects
-
-Currently learning about Python
 
 
 -------------------------------------------------
@@ -14,7 +11,7 @@ Currently learning about Python
 
 Email: brianm201720@gmail.com
 
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/brian-maina25/)
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/brian-maina-swe/)
 
 --------------------------------------------------
 
